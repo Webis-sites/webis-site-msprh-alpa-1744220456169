@@ -1,8 +1,36 @@
 {
   "projectName": "מספרה-אלפא-456",
   "businessName": "מספרה אלפא",
-  "created": "2025-04-09T17:40:56.216Z",
-  "status": "initialized",
-  "progress": 0,
-  "components": []
+  "description": "אנחנו מספרה מוביל בתחום הבריאות עם ניסיון של שנים רבות. אנחנו מתמחים במתן שירות מקצועי ואיכותי ללקוחותינו.",
+  "created": "2025-04-09T17:41:18.987Z",
+  "generatedWith": "webis-generator",
+  "repoName": "webis-site-msprh-alpa-1744220456169",
+  "formData": {
+    "businessName": "מספרה אלפא",
+    "businessType": "מספרה",
+    "industry": "חינוך",
+    "businessSize": "large",
+    "description": "אנחנו מספרה מוביל בתחום הבריאות עם ניסיון של שנים רבות. אנחנו מתמחים במתן שירות מקצועי ואיכותי ללקוחותינו.",
+    "language": "he",
+    "primaryColor": "#D4A5A5",
+    "secondaryColor": "#FF6B6B",
+    "typographyStyle": "classic",
+    "animationPreference": "moderate",
+    "headline": "מספרה מוביל בישראל",
+    "descriptionText": "חווית לקוח מושלמת בכל ביקור",
+    "ctaText": "קבע תור עכשיו",
+    "formFields": "שם, טלפון, אימייל, הודעה",
+    "includeTestimonials": true,
+    "includeFAQ": true,
+    "hasProducts": true,
+    "hasServices": true,
+    "hasPortfolio": false,
+    "needsBookingSystem": true,
+    "metaDescription": "מספרה מוביל המספק שירות מקצועי ואיכותי. הזמינו תור עוד היום!",
+    "metaKeywords": "מספרה, שירות, איכות, מקצועיות, ישראל",
+    "designStyles": [
+      "neumorphic",
+      "glassmorphism"
+    ]
+  }
 }
